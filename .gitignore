@@ -2,3 +2,5 @@
 .piolibdeps
 .history
 .vscode
+
+src/wificonfig.h
